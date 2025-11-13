@@ -5,7 +5,7 @@ This repository provides a Python implementation of the **LLiMe: Enhancing Text 
 ## References
 
 Further information about the here implemented approaches are reported in the following papers. If you you our work, please cite them.
-
+```
 @article{Angiulli2025,
 	title        = {LLiMe: enhancing text classifier explanations with large language models},
 	author       = {Angiulli, Fabrizio and De Luca, Francesco and Fassetti, Fabio and Nistic{\`o}, Simona},
@@ -31,3 +31,4 @@ Further information about the here implemented approaches are reported in the fo
 	pages        = {19--35},
 	editor       = {Pedreschi, Dino and Monreale, Anna and Guidotti, Riccardo and Pellungrini, Roberto and Naretto, Francesca}
 }
+```
