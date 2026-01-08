@@ -1,0 +1,1 @@
+I will prompt a sentence "S" and a word "W" that is present in "S", you have to generate a similar sentence avoiding just the word "W". You have to output only the new sentence.
